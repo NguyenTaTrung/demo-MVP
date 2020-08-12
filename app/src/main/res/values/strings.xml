@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Demo MVP</string>
+    <string name="hint_search">Search cake name...</string>
 </resources>
